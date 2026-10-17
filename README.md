@@ -4,9 +4,9 @@ Articles by Qiang Zhao, mostly on distributed systems and metadata. Each one was
 
 ## Designing a Distributed Metadata System
 
-1. [Foundation](2026-07-05-designing-a-distributed-metadata-system-foundation.md) (2026-07-05)
-2. [From Local State to a Replicated State Machine](2026-07-26-designing-a-distributed-metadata-system-replicated-state-machine.md) (2026-07-26)
+1. [Foundation](designing-a-distributed-metadata-system/01-foundation/) (2026-07-05)
+2. [From Local State to a Replicated State Machine](designing-a-distributed-metadata-system/02-replicated-state-machine/) (2026-07-26)
 
 ## Other
 
-- [From Metadata Store to Metadata Plane](2026-06-20-from-metadata-store-to-metadata-plane.md) (2026-06-20)
+- [From Metadata Store to Metadata Plane](from-metadata-store-to-metadata-plane/) (2026-06-20)
